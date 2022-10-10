@@ -1,0 +1,131 @@
+h1 {
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(252, 221, 186);
+    color: rgb(9, 9, 9);
+    font-family: Helvetica;
+    font-size: 50px;
+    text-align: center;
+    
+  }
+  .header{
+    color: black;
+    font-family: Helvetica;
+    font-size: 35px;
+    text-align: center; width: auto;
+    background-color: rgb(252, 221, 186);
+    
+
+  }
+
+  p{
+      background-color: rgb(252, 221, 186); 
+      font-family: Helvetica;
+      font-size: 30px;
+      color: black;
+      text-align: center;
+  }
+
+  h3{
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(252, 221, 186);
+    color: rgb(9, 9, 9);
+    font-family:Helvetica;
+    font-size: 40px;
+    text-align: center;
+
+  }
+
+  footer{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:rgb(193 146 118);
+  }
+
+  .subtitulo{
+    background-color:rgb(193 146 118);
+  }
+
+  #container {
+    display:block;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    padding-top: 0%;
+  }
+  .menu
+    ul{
+        text-align: center;            
+        display: flex;
+        justify-content: center;           
+    }
+    li{
+        border-radius: 5px;
+        margin-left: 50px;
+        margin-right: 50px;
+        background-color: rgb(252, 221, 186); 
+        list-style-type: none;                  
+    }
+    .menu a{
+       color: rgb(9, 9, 9); padding-right: 40px;
+      }
+  .link{
+      background-color: rgb(252, 221, 186); 
+      font-size: 30px;
+      color: black;
+      text-align: center;
+      display:block;
+      justify-content: center;
+      border-radius: 5px;
+  }
+     label{
+      color: black;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      border-radius: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-left: 550px;
+      margin-right: 550px;
+      background-color:rgb(252, 221, 186);
+     }
+ 
+      option, select {
+          background-color:rgb(226 176 159);
+          color: black;
+          font-family: Helvetica;
+          display: flex;
+          text-align: center;
+          padding-left: 100px;
+          padding-right: 100px;
+          justify-content: center;
+      }
+      .dia{
+      color: black;
+      text-align: center;
+      display: block;
+      justify-content: center;
+      border-radius: 5px;
+      margin-left: 600px;
+      padding-left: 100px;
+      padding-right: 100px;
+      background-color:rgb(193 146 118);
+
+      }
+      body {
+    background-image: url(lar-pet.jpg); 
+    background-position:center;
+    background-attachment: fixed;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    color: rgb(12, 12, 11);
+    font-family: Helvetica;
+    font-size: 30px;
+      }
