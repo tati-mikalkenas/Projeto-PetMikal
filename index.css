@@ -1,3 +1,12 @@
+.btSocial {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
 h1 {
     border-radius: 5px;
     margin-left: 200px;
